@@ -44,7 +44,7 @@
   "prodFilms": [
     {
       "id": 1,
-      "imageResource": "com.example.samplemoviedb.prod:drawable/cover_the_shawshank_redemption",
+      "imageResource": "com.example.samplemoviedb:drawable/cover_the_shawshank_redemption",
       "title": "The Shawshank Redemption",
       "releaseYear": 1994,
       "director": "Frank Darabont",
@@ -52,7 +52,7 @@
     },
     {
       "id": 2,
-      "imageResource": "com.example.samplemoviedb.prod:drawable/cover_the_godfather",
+      "imageResource": "com.example.samplemoviedb:drawable/cover_the_godfather",
       "title": "The Godfather",
       "releaseYear": 1972,
       "director": "Francis Ford Coppola",
@@ -60,7 +60,7 @@
     },
     {
       "id": 3,
-      "imageResource": "com.example.samplemoviedb.prod:drawable/cover_the_godfather_2",
+      "imageResource": "com.example.samplemoviedb:drawable/cover_the_godfather_2",
       "title": "The Godfather: Part II",
       "releaseYear": 1974,
       "director": "Francis Ford Coppola",
@@ -68,7 +68,7 @@
     },
     {
       "id": 4,
-      "imageResource": "com.example.samplemoviedb.prod:drawable/cover_the_dark_knight",
+      "imageResource": "com.example.samplemoviedb:drawable/cover_the_dark_knight",
       "title": "The Dark Knight",
       "releaseYear": 2008,
       "director": "Christopher Nolan",
@@ -76,7 +76,7 @@
     },
     {
       "id": 5,
-      "imageResource": "com.example.samplemoviedb.prod:drawable/cover_twelve_angry_man",
+      "imageResource": "com.example.samplemoviedb:drawable/cover_twelve_angry_man",
       "title": "12 Angry Men",
       "releaseYear": 1957,
       "director": "Sidney Lumet",
